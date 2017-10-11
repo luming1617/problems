@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="68dfff65-f672-4739-a818-1481141404c2" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/numbers/ValidPalindromeInteger.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/collection/CountUniqueElementArray.java" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -38,11 +38,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ValidPalindromeInteger.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="ValidPalindromeInteger.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/numbers/ValidPalindromeInteger.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="473">
-              <caret line="65" column="5" lean-forward="true" selection-start-line="65" selection-start-column="5" selection-end-line="65" selection-end-column="5" />
+            <state relative-caret-position="178">
+              <caret line="46" column="4" lean-forward="false" selection-start-line="46" selection-start-column="4" selection-end-line="65" selection-end-column="5" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CountUniqueElementArray.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/collection/CountUniqueElementArray.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="405">
+              <caret line="27" column="5" lean-forward="false" selection-start-line="27" selection-start-column="5" selection-end-line="27" selection-end-column="5" />
               <folding />
             </state>
           </provider>
@@ -118,6 +128,7 @@
         <option value="$PROJECT_DIR$/src/numbers/IntegerReverse.java" />
         <option value="$PROJECT_DIR$/src/numbers/ValidPalindromeNumber.java" />
         <option value="$PROJECT_DIR$/src/numbers/ValidPalindromeInteger.java" />
+        <option value="$PROJECT_DIR$/src/collection/CountUniqueElementArray.java" />
       </list>
     </option>
   </component>
@@ -160,6 +171,12 @@
               <item name="problems-algorithm" type="b2602c69:ProjectViewProjectNode" />
               <item name="problems-algorithm" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="problems-algorithm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="problems-algorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="collection" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="problems-algorithm" type="b2602c69:ProjectViewProjectNode" />
@@ -342,12 +359,12 @@
       <option name="presentableId" value="Default" />
       <updated>1507517714258</updated>
       <workItem from="1507517715850" duration="253000" />
-      <workItem from="1507518157150" duration="24628000" />
+      <workItem from="1507518157150" duration="25978000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="24881000" />
+    <option name="totallyTimeSpent" value="26231000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -534,8 +551,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/numbers/ValidPalindromeInteger.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="473">
-          <caret line="65" column="5" lean-forward="true" selection-start-line="65" selection-start-column="5" selection-end-line="65" selection-end-column="5" />
+        <state relative-caret-position="178">
+          <caret line="46" column="4" lean-forward="false" selection-start-line="46" selection-start-column="4" selection-end-line="65" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/collection/CountUniqueElementArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="27" column="5" lean-forward="false" selection-start-line="27" selection-start-column="5" selection-end-line="27" selection-end-column="5" />
           <folding />
         </state>
       </provider>
