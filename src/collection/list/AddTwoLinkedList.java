@@ -1,4 +1,4 @@
-package numbers;
+package collection.list;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -15,7 +15,7 @@ import java.util.List;
  * @author: liuluming
  * @CreatedDate: 2017/10/9 上午11:35
  */
-public class AddTwoNumberList {
+public class AddTwoLinkedList {
 
     /**
      * 我的解法：
@@ -87,12 +87,6 @@ public class AddTwoNumberList {
         return dummyHead.next;
     }
 
-}
-
-class ListNode {
-    int val;
-    ListNode next;
-    ListNode(int x) { val = x; }
 }
 
 /**
